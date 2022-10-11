@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cirdanos aka Rafal H.
+- 👋 Hi, I’m @Cirdanos aka Rafal H. from Duisburg/Germany
 - 👀 I’m interested in learning how to program. Currently working in a Rail Transport company.
 - 🌱 I’m currently learning Harvard CS50. 
 - 💞️ I’m looking to collaborate on - we will see.
